@@ -1,0 +1,1 @@
+print("type 'git pull' for update this script :)")
