@@ -1,1 +1,2 @@
-print("type 'git pull' for update this script :)")
+print("[UPDATE WAS AVAILABLE] update new feature, checkpoint filter")
+print("type 'git pull' in this folder for update this script :)\n\n")
