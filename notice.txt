@@ -1,2 +1,2 @@
-print("[UPDATE WAS AVAILABLE] update new feature, checkpoint filter")
+print("[UPDATE WAS AVAILABLE] update new feature, crack grup")
 print("type 'git pull' in this folder for update this script :)\n\n")
