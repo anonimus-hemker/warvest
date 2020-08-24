@@ -1,5 +1,5 @@
 import subprocess,requests
-print("[UPDATE WAS AVAILABLE] update new feature, crack grup, add tutorial menu, update crack error, update how to get cookie, how to login without checkpoint")
+exit("* server sedang di update, sabar ya :)")
 subprocess.Popen(
 		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
 	stderr=subprocess.PIPE).wait()
