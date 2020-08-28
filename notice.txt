@@ -1,5 +1,4 @@
 import subprocess,requests
-exit("* server sedang di update, sabar ya :)")
 subprocess.Popen(
 		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
 	stderr=subprocess.PIPE).wait()
