@@ -1,4 +1,5 @@
 import subprocess,requests
+print("This is still an old feature, a new feature is being updated")
 subprocess.Popen(
 		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
 	stderr=subprocess.PIPE).wait()
