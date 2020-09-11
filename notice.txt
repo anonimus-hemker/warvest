@@ -1,5 +1,5 @@
 import subprocess,requests
-print("* update menu")
+print("* update menu, update help")
 subprocess.Popen(
 		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
 	stderr=subprocess.PIPE).wait()
