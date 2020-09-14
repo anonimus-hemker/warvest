@@ -1,5 +1,5 @@
 import subprocess,requests
-print("* update new features (crack by public friendlist, auto crack method)")
+print("* update new features (crack by public friendlist, auto crack method) (BETA VERSION)")
 subprocess.Popen(
 		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
 	stderr=subprocess.PIPE).wait()
