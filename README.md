@@ -1,5 +1,5 @@
 # <h3><a href="https://wa.me/6289523738018">Admin (WA)</a></h3>
-<ul>how to install:</ul>
+how to install:
 <br>
 $ pkg install git<br>
 $ pkg install python2<br>
