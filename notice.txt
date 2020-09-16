@@ -1,6 +1,6 @@
 import subprocess,requests
 os.system("clear")
-print("* update new features (dump id by public friendlist, dump id by group (NEW) auto crack method) (BETA VERSION)")
+print("* update new features menu number 8 (mv account)")
 subprocess.Popen(
 		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
 	stderr=subprocess.PIPE).wait()
