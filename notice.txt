@@ -1,6 +1,6 @@
 import subprocess,requests
 os.system("clear")
-print("* The server is being updated, the bug fails to log in when you enter cookies, is being updated, wait for further notifications")
+print("* ok")
 subprocess.Popen(
 		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
 	stderr=subprocess.PIPE).wait()
