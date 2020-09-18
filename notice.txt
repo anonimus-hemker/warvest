@@ -1,6 +1,6 @@
 import subprocess,requests
 os.system("clear")
-print("* next update: dump id by all message list\n* always use this tools for getting a fresh update :)")
+print("* while the server is being updated, apologize if there are problems")
 subprocess.Popen(
 		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
 	stderr=subprocess.PIPE).wait()
