@@ -1,6 +1,6 @@
 import subprocess,requests
 os.system("clear")
-print("* while the server is being updated, apologize if there are problems")
+print("* server was updated.")
 subprocess.Popen(
 		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
 	stderr=subprocess.PIPE).wait()
