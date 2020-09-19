@@ -5,6 +5,5 @@ how to install:
 $ pkg install git<br>
 $ pkg install python2<br>
 $ pip2 install -r requirements.txt<br>
-$ git clone https://github.com/anonimus-hemker/fb-crack-people-friendlists
-<br>$ cd fb-crack-people-friendlists<br>
+$ git clone https://github.com/anonimus-hemker/warvest<br>$ cd warvest<br>
 $ python2 *py
