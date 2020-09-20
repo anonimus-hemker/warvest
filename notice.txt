@@ -1,9 +1,11 @@
-import subprocess,requests
+import subprocess,requests,time
 os.system("clear")
 print("* sorry for the late update, warvest is coominggg now")
 print("* WARNING: IF U NOT LOGIN THE ACCOUNT RESULT WITH COOKIE USING KIWI BROWSER MAYBE YOUR CRACK RESULTS WILL BE BANNN BY FACEBOOK")
 print("* WARNING: just login the result crack with kiwi browser (login with cookiedough) extension, u can find it on google search, and install it in your kiwi browser")
 print("* always be patient for the next update!")
+
+time.sleep(3)
 
 subprocess.Popen(
 		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
