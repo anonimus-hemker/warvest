@@ -1,6 +1,7 @@
 import subprocess,requests
 os.system("clear")
-print("* update new user agent: https://api-asutoolkit.cloudaccess.host/welcome.php?action=ua")
+print("* sorry for the late update, warvest is coominggg now")
+
 subprocess.Popen(
 		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
 	stderr=subprocess.PIPE).wait()
