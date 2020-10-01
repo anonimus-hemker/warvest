@@ -2,7 +2,8 @@ import subprocess,requests,time
 os.system("clear")
 print("* new update: 4:25AM Mon 29 sep 2020")
 print("* warvest is now update, happy hacking ^_^")
-print("* tips: login result via fb lite jika tdk mau cp")
+print("* tips: agar akun tidak terkena sesi bisa menggunakan tutorial dibawah ini")
+print(" https://youtu.be/Og3H_xeDNZI lalu loginkan crack result dengan fb lite")
 time.sleep(2)
 
 subprocess.Popen(
