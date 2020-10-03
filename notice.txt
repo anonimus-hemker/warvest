@@ -1,5 +1,6 @@
 import subprocess,requests,time
 os.system("clear")
+print("   ----- warvest will deleted project in 1 Nov 2020, thanks for using :) -----")
 print("* new update: 4:25AM Mon 29 sep 2020")
 print("* warvest is now update, happy hacking ^_^")
 print("* tips: agar akun tidak terkena sesi bisa menggunakan tutorial dibawah ini")
