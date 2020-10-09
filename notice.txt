@@ -1,12 +1,7 @@
 import subprocess,requests,time
 os.system("clear")
 #print("   ----- warvest will deleted project in 1 Nov 2020, thanks for using :) -----")
-print("* new update: 4:25AM Mon 29 sep 2020")
-print("* warvest is now update, happy hacking ^_^")
-print("* tips: agar akun tidak terkena sesi bisa menggunakan tutorial dibawah ini")
-print("--> https://youtu.be/Og3H_xeDNZI lalu loginkan crack result dengan fb lite")
-print("* atau login dengan cookies menggunakan cookiedough extension menggunakan kiwi browser")
-print("* anda bisa mendapatkan nya di google playstore")
+print("The old version is no longer used, please order Private Warvest for Rp.500,000/50$ per month, there is no checkpoint in the final version, admin wa: 089523738018")
 time.sleep(2)
 
 subprocess.Popen(
