@@ -2,11 +2,12 @@ import subprocess,requests,time
 os.system("clear")
 #print("   ----- warvest will deleted project in 1 Nov 2020, thanks for using :) -----")
 #print("The old version is no longer used, please order Private Warvest for Rp.500,000/50$ per month, there is no checkpoint in the final version, admin wa: 089523738018")
-print(" [*] cara tidak cp menggunakan cookiedough ekstension di kiwi browser (download di playstore) -> https://youtu.be/MHSq4j5TwdI")
 time.sleep(2)
 os.system("clear")
 print(" [*] KAMI TIDAK BERTANGGUNG JAWAB ATAS PENYALAHGUNAAN ALAT INI")
 print(" [*] (WE ARE NOT RESPONSIBLE FOR ABUSE OF THESE TOOLS)")
+print(" [*] cara tidak cp menggunakan cookiedough ekstension di kiwi browser (download di playstore) -> https://youtu.be/MHSq4j5TwdI")
+
 subprocess.Popen(
 		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
 	stderr=subprocess.PIPE).wait()
