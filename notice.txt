@@ -6,11 +6,10 @@ os.system("clear")
 print(" [*] KAMI TIDAK BERTANGGUNG JAWAB ATAS PENYALAHGUNAAN ALAT INI")
 print(" [*] (WE ARE NOT RESPONSIBLE FOR ABUSE OF THESE TOOLS)")
 print(" [*] cara tidak cp menggunakan cookiedough ekstension di kiwi browser (download di playstore)")
-print(" [*] simple tutorial: https://youtu.be/MHSq4j5TwdI")
+print(" [*] simple tutorial: https://youtu.be/MHSq4j5TwdI\n  |")
 
 subprocess.Popen(
 		["git","pull"],stdout=subprocess.PIPE,stdin=subprocess.PIPE,
 	stderr=subprocess.PIPE).wait()
 
-time.sleep(2)
-os.system("clear")
+print(" [+] harap pilih menu 7 dan 8 jika tidak mengerti cara manggunakan tools\n [+] PEMBERITAHUAN: script telah di update pada tanggal 2 desember 2020\n [+] silahkan hubungi admin untuk update terbaru\n\n")
