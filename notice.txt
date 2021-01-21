@@ -1,5 +1,6 @@
 import subprocess,requests,time
 os.system("clear")
+exit("[!] script dalam masa pembaruan dan perbaikan, jika script sudah normal sebutkan saja days limit nya tinggal brp hari, nanti selesai dicek bisa di ulang lagi sesuai sisa lisensi nya, pembaruan script akan dikabarkan disini, jika tidak ada pesan ini maka script sudah normal")
 #print("   ----- warvest will deleted project in 1 Nov 2020, thanks for using :) -----")
 #print("The old version is no longer used, please order Private Warvest for Rp.500,000/50$ per month, there is no checkpoint in the final version, admin wa: 089523738018")
 os.system("clear")
